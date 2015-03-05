@@ -2,7 +2,6 @@ package com.ac.cs5551.lab7.test;
 
 import static com.jayway.restassured.module.mockmvc.RestAssuredMockMvc.given;
 import static org.hamcrest.CoreMatchers.equalTo;
-import static org.junit.Assert.assertTrue;
 
 import org.junit.After;
 import org.junit.Before;
